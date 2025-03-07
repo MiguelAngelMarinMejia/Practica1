@@ -1,0 +1,1 @@
+Estudiante {iD = "1034989576", entrada = 2025-03-06 14:12:18.564292 Hora est. PacÝfico, SudamÚrica, salida = 2025-03-06 14:13:06.1559028 Hora est. PacÝfico, SudamÚrica}
